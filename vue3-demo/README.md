@@ -2,7 +2,7 @@
  * @Author: mzr
  * @Date: 2022-11-09 15:02:33
  * @LastEditors: mzr
- * @LastEditTime: 2022-11-09 15:12:33
+ * @LastEditTime: 2022-11-09 15:46:12
  * @Description:
 -->
 
@@ -22,4 +22,3 @@ Since TypeScript cannot handle type information for `.vue` imports, they are shi
 2. Reload the VS Code window by running `Developer: Reload Window` from the command palette.
 
 You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
-ddd
